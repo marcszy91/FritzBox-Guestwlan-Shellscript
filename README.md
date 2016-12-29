@@ -34,8 +34,8 @@ Thera are two ways to configure the wlan settings.
   2. Use optional parameter to override default settings like:
   
   
-	      ./GuestWlan.sh --action="on" --ssid="GUEST+SSID"
+			./GuestWlan.sh --action="on" --ssid="GUEST+SSID"
         
 For parameters take a look at
 
-        ./GuestWlan.sh --help
+        		./GuestWlan.sh --help
