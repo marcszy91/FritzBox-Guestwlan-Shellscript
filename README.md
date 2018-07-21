@@ -2,6 +2,8 @@
 A shellscript for activate and deacitve fritzbox guestwlan and configure it
 
 ## Install
+        sudo apt-get install tclsh tcllib
+
 	git clone https://github.com/Ezak91/FritzBox-Guestwlan-Shellscript.git
   
 	cd FritzBox-Guestwlan-Shellscript
